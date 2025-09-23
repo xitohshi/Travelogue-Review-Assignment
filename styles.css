@@ -1,12 +1,14 @@
 body{
     margin-top: 0;
-    background-color: bisque;
+    background-color: #ffe4c4;
     padding: 0% 15% 0% 15%;
 
 }
 
-nav ul{
+nav a{
     font-size: 24px;
+    text-decoration: none;
+    color: white;
 }
 main{
     background-color: whitesmoke;
@@ -23,10 +25,15 @@ main{
 }
 
 nav{
-    background-color: burlywood;
+    background-color:#b07938;
     padding: 15px 50px 15px 10px;
     margin-top: 0;
 }
+
+section#JohnsonCobbe{
+   
+}
+
 /*
 article{
     background-color: aliceblue;
