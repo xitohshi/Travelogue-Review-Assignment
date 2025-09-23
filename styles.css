@@ -7,22 +7,26 @@ body{
 
 header{
     font-size:x-large;
-    background-color: white;
-    border-style:dashed;
+    background-color: #fff;
+    border-style: double;
+    border-color: #b07938;
+    border-width: 7px;
+    border-radius: 50px;
+    border-bottom: 0;
     padding: 5% 10%;
-    margin-top: 10%;
+    margin: 10% 0% 0% 0%;
 }
 
 nav a{
     font-size: 24px;
     text-decoration: none;
-    color: white;
+    color: #fff;
 }
 
 main{
-    background-color: whitesmoke;
+    background-color: #fff;
     padding: 5% 10%;
-    border-radius: 0px 0px 50px 50px;
+    border-radius: 50px;
     margin-top: 0;
 }
 /*
@@ -41,4 +45,12 @@ nav{
     background-color:#b07938;
     padding: 15px 50px 15px 10px;
     margin-top: 0;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: #422103;
+    padding: 50px 0px 50px 0px;
 }
