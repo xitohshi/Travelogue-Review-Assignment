@@ -27,12 +27,11 @@ main{
     flex-wrap: wrap;
 }
 
-/*
 main section:nth-child(odd){
     display: flex;
-    justify-content: flex-end;
+    flex-direction: row-reverse
 }
-*/
+
 
 h2{
     font-size: 30px;
