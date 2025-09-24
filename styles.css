@@ -23,7 +23,6 @@ main{
     padding: 5% 10% 10% 10%;
     margin-top: 0;
     display: flex;
-    justify-content: space-evenly;
     flex-direction: column;
 }
 
@@ -45,7 +44,7 @@ footer{
     color: #422103;
     text-align: right;
     font-size: 24px;
-    margin: 5% 0% 0% 0%;
+    margin: 5% 0% 5% 0%;
 }
 
 #footerflex{
@@ -57,7 +56,7 @@ footer{
 }
 
 footer a{
-    font-size: 16px;
+    font-size: 18px;
     text-decoration: none;
     color: #422103;
 }
